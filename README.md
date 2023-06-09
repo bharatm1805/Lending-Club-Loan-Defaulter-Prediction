@@ -14,20 +14,20 @@ loans reportedly originating from LendingClub by the end of 2015
 As of 20203, LendingClub interest rates ranged from 6.7% to 22.8% (depending on the
 loan duration and the borrower’s rating), and the default rates varied between 1.3% and 10.6%.
 Based on these statistics, you believe that becoming a loan investor on LendingClub.com
-could be a good idea. Therefore, you go ahead and collect more information on how investments work and find out about the following information.
-• LendingClub issues loans between $1,000 (min) and $40,000 (max).
-• Each loan is issued for a duration of either 36 months or 60 months.
-• Each loan is split into multiples of $25, called “notes” (e.g., for a $2,000 loan, there
+could be a good idea. Therefore, you go ahead and collect more information on how investments work and find out about the following information.
+* LendingClub issues loans between $1,000 (min) and $40,000 (max).
+* Each loan is issued for a duration of either 36 months or 60 months.
+* Each loan is split into multiples of $25, called “notes” (e.g., for a $2,000 loan, there
 will be 80 notes of $25 each). An investor can purchase any number of the notes of
 a loan (in a similar manner to “shares” of a stock). The total amount of the loan is
 typically invested by multiple investors.
-• LendingClub categorizes its loans using a grading scheme (grades A, B, C, D, E, F,
+* LendingClub categorizes its loans using a grading scheme (grades A, B, C, D, E, F,
 and G where grade A corresponds to the loans judged to be “safest” (i.e., least likely
 to default).
-• LendingClub sets the interest rates based on the borrower’s credit history. Of course,
+* LendingClub sets the interest rates based on the borrower’s credit history. Of course,
 the safer the loan the lower the interest rate, and so as an investor, you would have to
 balance risk and return when deciding which loans to invest in.
-• Individual investors can browse loan listings online (See Figure 1.1). From here, investors can obtain more detailed information on each loan by clicking on it within the listing
+* Individual investors can browse loan listings online (See Figure 1.1). From here, investors can obtain more detailed information on each loan by clicking on it within the listing
 
 # The Data
 In this project, we will use the historical data from loans that were issued on LendingClub
